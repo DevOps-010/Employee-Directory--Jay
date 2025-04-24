@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules
+
+# Env
+.env
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Git & Editor
+.git
+.gitignore
+.vscode
+.idea
+
+# Test & coverage artifacts
+coverage
